@@ -8,7 +8,13 @@ Welcome to the Data Structures and Algorithms Solutions repository! This reposit
 
 
 ## 
----
+<h3>Contents : :pencil:</h3>
+<ul>
+  <li><a href="https://github.com/LokeshSingh07/Data-Structures-and-Algorithms/tree/main/01%20Arrays">Arrays :slot_machine:</a></li>
+
+</ul>
+
+
 
 
 ## 🔗 Links
