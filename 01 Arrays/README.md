@@ -9,7 +9,7 @@
 	</thead>
     <tbody>
         <tr>
-            <td><a href="https://github.com/LokeshSingh07/Data-Structures-and-Algorithms/blob/main/01%20Arrays/0_Basics.cpp">Basics</a></td>
+            <td><a href="https://github.com/LokeshSingh07/Data-Structures-and-Algorithms/blob/main/01%20Arrays/0_Basics.cpp">Basics (array)</a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/LokeshSingh07/Data-Structures-and-Algorithms/blob/main/01%20Arrays/1_unique_number_of_occurrences.cpp">Unique number of occurrences</a></td>
@@ -22,6 +22,12 @@
         </tr>
         <tr>
             <td><a href="https://github.com/LokeshSingh07/Data-Structures-and-Algorithms/blob/main/01%20Arrays/4_shift_array_by_1.cpp">Shift array by 1</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/LokeshSingh07/Data-Structures-and-Algorithms/blob/main/01%20Arrays/0_matrix.cpp">Basics (2D array)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/LokeshSingh07/Data-Structures-and-Algorithms/blob/main/01%20Arrays/0_matrix.cpp">Basics (Vector STL)</a></td>
         </tr>
     </tbody>
 </table>
