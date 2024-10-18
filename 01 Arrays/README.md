@@ -29,6 +29,27 @@
         <tr>
             <td><a href="https://github.com/LokeshSingh07/Data-Structures-and-Algorithms/blob/main/01%20Arrays/0_matrix.cpp">Basics (Vector STL)</a></td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/LokeshSingh07/Data-Structures-and-Algorithms/blob/main/01%20Arrays/5_segregate_negative_and_positive.cpp">Segreagte -ve and +ve</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/LokeshSingh07/Data-Structures-and-Algorithms/blob/main/01%20Arrays/6_sort_colors.cpp">sort colors</a></td>
+        </tr>        
+        <tr>
+            <td><a href="https://github.com/LokeshSingh07/Data-Structures-and-Algorithms/blob/main/01%20Arrays/7_rotate_array.cpp">rotate arrays</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/LokeshSingh07/Data-Structures-and-Algorithms/blob/main/01%20Arrays/8_missing_numbers.cpp">missing numbers</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/LokeshSingh07/Data-Structures-and-Algorithms/blob/main/01%20Arrays/9_rearrange_array_elements_by_sign.cpp">rearrange array elements by sign</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/LokeshSingh07/Data-Structures-and-Algorithms/blob/main/01%20Arrays/10_row_with_maximum_ones.cpp">Row with maximum ones</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/LokeshSingh07/Data-Structures-and-Algorithms/blob/main/01%20Arrays/11_rotate_matrix.cpp">Rotate a 2d array by 90 degree</a></td>
+        </tr>
     </tbody>
 </table>
 
