@@ -17,7 +17,7 @@ Welcome to the Data Structures and Algorithms Solutions repository! This reposit
     <li><a href="https://github.com/LokeshSingh07/Data-Structures-and-Algorithms/tree/main/Linked List">Linked List :link:</a></li>
     <li><a href="https://github.com/LokeshSingh07/Data-Structures-and-Algorithms/tree/main/Stacks">Stacks :books:</a></li>
     <li><a href="https://github.com/LokeshSingh07/Data-Structures-and-Algorithms/tree/main/Queues">Queues :train::train:</a></li>
-    <li><a href="https://github.com/LokeshSingh07/Data-Structures-and-Algorithms/tree/main/Design">Design :scissors:triangular_ruler::</a></li>
+    <li><a href="https://github.com/LokeshSingh07/Data-Structures-and-Algorithms/tree/main/Design">Design :scissors::triangular_ruler:</a></li>
     <li><a href="https://github.com/LokeshSingh07/Data-Structures-and-Algorithms/tree/main/Sliding Window">Sliding Window :bus:</a></li>
 
 
